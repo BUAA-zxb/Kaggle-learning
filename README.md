@@ -1,0 +1,3 @@
+# Kaggle-learning
+The storage inventory storage code when I learn, I learn knowledge is very shallow, if lucky to be anyone to search, welcome to guide, I will be open-minded to ask, thank you
+This is my machine learning, in order to deepen the impression of learning, in kaggle to find the project for practical engineering projects. The data used in this project is a very common digital recognizer data set, which is known as the Hello world in machine learning. I use machine learning SVM algorithm, the accuracy is 98.282, the accuracy is very low. This item is only my collection for commemorative use, welcome professional guidance, I am very grateful.
